@@ -1,47 +1,47 @@
 date,venue,final_result,mvp,goals,assists,in
 25 marzo,Cancha Gool de Oro,8-10,J. Ramirez,18,12,80000
 14 abril,Cancha Gool de Oro,15-13,L. Machado,28,26,80000
-27 abril,Cancha Gool de Oro,12 - 7,L. Machado,19,5,80000
-4 mayo,Cancha UPB,13 - 15,J. Rozo,28,15,80000
-11 mayo,Recrear XYZ,22 - 22,L. Machado,44,33,80000
-18 mayo,Cancha Gool de Oro,8 - 15,C. Durán,23,13,80000
-25 mayo,Cancha UPB,22 - 26,J. Rozo,48,41,80000
-2 junio,Recrear XYZ,25 - 24,D. Tarazona,49,31,80000
-8 junio,Cancha UPB,10 - 28,A. Granados,38,27,120000
-16 junio,Recrear XYZ,3 - 11,D. Plata,14,5,80000
-23 junio,Cancha UPB,20 - 1,D. Amado,21,18,80000
-29 junio,Cancha UIS,34 - 16,W. Velandia,50,49,80000
-7 julio,Cancha UIS,30 - 13,W. Velandia,43,26,80000
-13 julio,Recrear XYZ,5 - 4,G. Ojeda,9,4,80000
-21 julio,Cancha UIS,28 - 11,J. Rozo,39,31,80000
-27 julio,Cancha UPB,16 - 21,L. Machado,37,17,80000
-4 agosto,Cancha Gool de Oro,29 - 15,J. Ramirez,44,16,80000
-10 agosto,Cancha UPB,31 - 23,D. Tarazona,54,40,80000
-17 agosto,Cancha UNAB,33 - 33,C. Durán,66,36,80000
-24 agosto,Cancha UNAB,20 - 7,G. Ojeda,27,17,80000
-31 agosto,Recrear XYZ,23 - 5,C. Durán,28,7,80000
-7 septiembre,Recrear XYZ,11 - 16,L. Machado,27,11,80000
-15 septiembre,Cancha UNAB,1 - 8,G. Ojeda,9,2,120000
-21 septiembre,Recrear XYZ,25 - 9,A. Granados,34,18,120000
-28 septiembre,Cancha Gool de Oro,26 - 6,G. Ojeda,32,30,80000
-5 octubre,Cancha Gool de Oro,15 - 5,G. Ojeda,20,7,80000
-12 octubre,Cancha UPB,13 - 12,J. Ramirez,25,13,80000
-19 octubre,Cancha UPB,21 - 8,A. Granados,29,17,120000
-27 octubre,Recrear XYZ,15 - 20,C. Durán,35,14,80000
-2 noviembre,Cancha Gool de Oro,22 - 11,L. Machado,33,15,120000
-9 noviembre,Cancha UNAB,27 - 11,W. Velandia,38,12,80000
-17 noviembre,Cancha UIS,21 - 34,J. Rozo,55,40,80000
-23 noviembre,Cancha UNAB,15 - 30,D. Plata,45,32,80000
-30 noviembre,Recrear XYZ,7 - 26,J. Rozo,33,12,80000
-8 diciembre,Recrear XYZ,11 - 33,J. Ramirez,44,31,80000
-14 diciembre,Cancha Gool de Oro,8 - 2,W. Velandia,10,9,80000
-21 diciembre,Cancha UPB,20 - 33,W. Velandia,53,22,80000
-29 diciembre,Cancha UNAB,18 - 9,R. López,27,15,80000
-4 enero,Cancha Gool de Oro,22 - 14,L. Machado,36,10,80000
-11 enero,Cancha UPB,17 - 28,D. Tarazona,45,26,80000
-18 enero,Recrear XYZ,13 - 16,J. Rozo,29,8,80000
-25 enero,Cancha UNAB,26 - 13,A. Granados,39,37,80000
-1 febrero,Cancha UNAB,7 - 8,J. Rozo,15,4,80000
-8 febrero,Cancha Gool de Oro,26 - 20,J. Ramirez,46,16,120000
-15 febrero,Cancha UIS,30 - 24,J. Rozo,54,10,120000
-22 febrero,Cancha UNAB,18 - 21,R. López,39,13,80000
+27 abril,Cancha UPB,18 - 5,D. Plata,23,9,80000
+4 mayo,Cancha Gool de Oro,8 - 1,D. Amado,9,1,80000
+11 mayo,Cancha UNAB,32 - 15,C. Durán,47,16,80000
+18 mayo,Recrear XYZ,5 - 18,A. Granados,23,12,80000
+25 mayo,Cancha Gool de Oro,23 - 7,G. Ojeda,30,22,80000
+2 junio,Cancha UIS,7 - 12,D. Amado,19,18,80000
+8 junio,Cancha Gool de Oro,12 - 19,R. López,31,13,120000
+16 junio,Cancha UNAB,13 - 34,D. Plata,47,37,80000
+23 junio,Cancha UIS,2 - 16,D. Plata,18,4,80000
+29 junio,Cancha UIS,14 - 19,J. Rozo,33,7,80000
+7 julio,Cancha Gool de Oro,27 - 19,J. Ramirez,46,21,80000
+13 julio,Cancha UNAB,18 - 6,D. Tarazona,24,5,80000
+21 julio,Recrear XYZ,12 - 4,A. Granados,16,3,80000
+27 julio,Cancha UIS,18 - 30,A. Granados,48,47,80000
+4 agosto,Cancha UPB,11 - 9,D. Amado,20,12,80000
+10 agosto,Recrear XYZ,6 - 24,G. Ojeda,30,22,80000
+17 agosto,Cancha UPB,23 - 29,R. López,52,21,80000
+24 agosto,Cancha UNAB,9 - 1,G. Ojeda,10,5,80000
+31 agosto,Cancha Gool de Oro,26 - 23,A. Granados,49,42,80000
+7 septiembre,Cancha UIS,28 - 34,L. Machado,62,41,80000
+15 septiembre,Cancha Gool de Oro,8 - 21,D. Tarazona,29,17,120000
+21 septiembre,Cancha UPB,11 - 24,D. Amado,35,12,120000
+28 septiembre,Cancha UIS,14 - 33,D. Plata,47,35,80000
+5 octubre,Recrear XYZ,30 - 16,G. Ojeda,46,9,80000
+12 octubre,Recrear XYZ,9 - 4,W. Velandia,13,12,80000
+19 octubre,Cancha Gool de Oro,3 - 10,R. López,13,4,120000
+27 octubre,Cancha UIS,17 - 1,L. Machado,18,4,80000
+2 noviembre,Cancha UIS,10 - 30,D. Amado,40,10,120000
+9 noviembre,Cancha UIS,26 - 9,G. Ojeda,35,33,80000
+17 noviembre,Cancha UPB,27 - 14,C. Durán,41,28,80000
+23 noviembre,Recrear XYZ,30 - 28,G. Ojeda,58,28,80000
+30 noviembre,Cancha Gool de Oro,9 - 34,D. Tarazona,43,40,80000
+8 diciembre,Cancha UNAB,30 - 6,G. Ojeda,36,29,80000
+14 diciembre,Cancha UPB,29 - 26,L. Machado,55,20,80000
+21 diciembre,Cancha UPB,24 - 32,L. Machado,56,54,80000
+29 diciembre,Cancha UPB,3 - 13,C. Durán,16,14,80000
+4 enero,Cancha Gool de Oro,33 - 5,D. Amado,38,28,80000
+11 enero,Cancha UPB,20 - 22,G. Ojeda,42,23,80000
+18 enero,Cancha UIS,5 - 1,J. Ramirez,6,3,80000
+25 enero,Cancha UNAB,26 - 32,J. Rozo,58,12,80000
+1 febrero,Cancha UIS,28 - 2,L. Machado,30,20,80000
+8 febrero,Recrear XYZ,19 - 29,D. Tarazona,48,36,120000
+15 febrero,Recrear XYZ,8 - 19,J. Ramirez,27,10,120000
+22 febrero,Cancha UIS,24 - 22,J. Ramirez,46,27,80000
